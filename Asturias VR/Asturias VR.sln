@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{375615F5-D885-C12A-03BC-6A0663C9C85A}") = "Asturias VR", "Assembly-CSharp-firstpass.csproj", "{626C78A7-FAEC-ABE2-A917-39724B1716C8}"
+EndProject
+Project("{375615F5-D885-C12A-03BC-6A0663C9C85A}") = "Asturias VR", "Assembly-CSharp.csproj", "{F6929666-FD99-4A17-F76E-29C97100CCC2}"
+EndProject
+Project("{375615F5-D885-C12A-03BC-6A0663C9C85A}") = "Asturias VR", "Assembly-CSharp-Editor.csproj", "{83D5A35F-E190-AB5D-31F6-2F02D38BC50D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{626C78A7-FAEC-ABE2-A917-39724B1716C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626C78A7-FAEC-ABE2-A917-39724B1716C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626C78A7-FAEC-ABE2-A917-39724B1716C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626C78A7-FAEC-ABE2-A917-39724B1716C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6929666-FD99-4A17-F76E-29C97100CCC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6929666-FD99-4A17-F76E-29C97100CCC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6929666-FD99-4A17-F76E-29C97100CCC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6929666-FD99-4A17-F76E-29C97100CCC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D5A35F-E190-AB5D-31F6-2F02D38BC50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D5A35F-E190-AB5D-31F6-2F02D38BC50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D5A35F-E190-AB5D-31F6-2F02D38BC50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D5A35F-E190-AB5D-31F6-2F02D38BC50D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
