@@ -47,6 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\camera_movement.cs" />
      <Compile Include="Assets\Scripts\cloud_movement.cs" />
+     <Compile Include="Assets\stone_falling.cs" />
      <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
      <None Include="Assets\Standard Assets\ParticleSystems\ParticleSystemsGuidelines.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
