@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/asturias_scene.unity
+- path: Assets/startScene.unity
   isLoaded: 1
   isActive: 1
